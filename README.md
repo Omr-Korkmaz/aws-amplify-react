@@ -1,3 +1,10 @@
+#AWS-amplify login and register for Amazon Cognito user. 
+
+![register form](public/sign-in.png)
+![register form](public/confirm-code.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
