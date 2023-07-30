@@ -1,6 +1,6 @@
 #AWS-amplify login and register for Amazon Cognito user. 
 
-![register form](public/sign-in.png){ width=400 height=300 }
+<img src="public/sign-in.png" alt="Image2" width="400" height="300" />
 
 <img src="public/confirm-code.png" alt="Image" width="400" height="300" />
 
